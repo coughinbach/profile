@@ -7,7 +7,7 @@ body {
   letter-spacing: 0.09em;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: 'Lato', sans-serif;
 }
 
@@ -34,6 +34,11 @@ h3 {
   text-align: center;
   letter-spacing: 0.2em;
   font-weight: bolder;
+}
+
+h4 {
+  color: #1EA896;
+  text-align: right;
 }
 
 a {
